@@ -6,4 +6,4 @@ Kokoaikainen tehtävä. Vakituinen työsuhde lähtökohtana, myös muut yhteisty
 
 Haku alustavasti **22.11.2026 mennessä**.
 
-Tämä repositorio sisältää rekrytoinnin aineiston.
+Tämä rekrytointi on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite.
