@@ -10,4 +10,4 @@ Haemme omistajuutta ottavaa tuotepäällikköä kasvavaan konserniimme vastaamaa
 
 Hakemus tulee palauttaa ohjeistuksen mukaisesti **22.11.2026 mennessä**.
 
-Tämän rekrytoinnin ensimmäinen vaihe on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite.
+Tämän rekrytoinnin ensimmäinen vaihe on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite ja `AGENTS.md`-tiedoston lukeminen.

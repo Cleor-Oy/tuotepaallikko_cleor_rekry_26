@@ -1,6 +1,6 @@
 # Hakijatietojen käsittely
 
-Versio 1.0 · 28.10.2026 · Cleor Oy:n tuotepäällikön rekrytointi 2026
+Versio 1.1 · 28.10.2026 · Cleor Oy:n tuotepäällikön rekrytointi 2026
 
 ## Rekisterinpitäjä ja yhteyshenkilö
 
@@ -18,7 +18,7 @@ Tietoja käytetään tämän rekrytoinnin hoitamiseen, hakijoiden osaamisen ja k
 
 Jos käytät omaa tekoälypalvelua hakemuksen laatimiseen, antamasi tiedot käsitellään kyseisen palvelun ehtojen ja asetusten mukaan. Tämä ei ole Cleorin Claude Team -työtila. Voit tutustua tehtävään ja valmistella vastauksia ensin ilman nimeäsi tai yhteystietojasi ja lisätä ne vasta tiedostoa viimeistellessäsi.
 
-Cleor ei saa keskusteluasi automaattisesti. Voit lähettää tarkastamasi hakemustiedoston sähköpostitse itse tai, jos käyttämäsi tekoälypalvelu tukee omaan sähköpostiisi liitetyn MD-tiedoston lähettämistä, pyytää sitä lähettämään viestin vasta erillisen hyväksyntäsi jälkeen. Hakemuksen lähettäminen tällä tavoin käsitellään myös käyttämäsi tekoäly- ja sähköpostipalvelun ehtojen mukaisesti. Älä lisää hakemusta, henkilötietoja tai suostumusta repon issueihin, pull requesteihin tai versionhallintaan. Täysi keskusteluhistoria ei kuulu hakemukseen.
+Cleor ei saa keskusteluasi automaattisesti. Voit lähettää tarkastamasi hakemuksen sähköpostitse ensisijaisesti MD-liitteenä tai tarvittaessa viestin tekstinä. Jos käyttämäsi tekoälypalvelu tukee omaan sähköpostiisi liitetyn MD-tiedoston lähettämistä, voit pyytää sitä lähettämään viestin vasta erillisen hyväksyntäsi jälkeen. Hakemuksen lähettäminen tällä tavoin käsitellään myös käyttämäsi tekoäly- ja sähköpostipalvelun ehtojen mukaisesti. Älä lisää hakemusta, henkilötietoja tai suostumusta repon issueihin, pull requesteihin tai versionhallintaan. Täysi keskusteluhistoria ei kuulu hakemukseen.
 
 ## Vapaaehtoinen vertailu Claude Teamissa
 

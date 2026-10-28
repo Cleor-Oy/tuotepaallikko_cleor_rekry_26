@@ -4,7 +4,7 @@
 
 Cleor Oy ja sen kokonaan omistama Hani-Tuote Oy toimivat tilavarusteiden ja rakennusprojektien parissa. Hani-Tuotteen tarjontaan kuuluu esimerkiksi saniteetti- ja esteettömyysvarusteita sekä ilmoitus- ja kirjoitustauluja. Cleor tarjoaa rakennusprojekteihin logistiikkaa, projektinhallintaa ja asennuspalveluja.
 
-Olemme rakennusalan taantumasta huolimatta kasvaneet viime vuosina 20–30 prosenttia vuosittain. Haemme nyt ensimmäistä tuotepäällikköämme ottamaan omistajuuden tuotevalikoimasta ja sen kehittämisestä. Tehtävässä näet työsi vaikutukset yrityksen toimintaan ja pääset mahdollistamaan kasvun jatkoa.
+Olemme rakennusalan taantumasta huolimatta kasvaneet viime vuosina. Haemme nyt ensimmäistä tuotepäällikköämme ottamaan omistajuuden tuotevalikoimasta ja sen kehittämisestä. Tehtävässä näet työsi vaikutukset yrityksen toimintaan ja pääset mahdollistamaan kasvun jatkoa.
 
 Työnantaja on Cleor Oy. Vastuu kattaa Hani-Tuotteen varastovalikoiman ja Cleorin projektituotteiden valikoiman. Konserni käyttää yhtä tuotetiedonhallintajärjestelmää eli PIMiä.
 

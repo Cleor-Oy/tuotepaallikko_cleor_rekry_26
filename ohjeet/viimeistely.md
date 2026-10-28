@@ -2,7 +2,7 @@
 
 ## Tarkista ennen luovutusta
 
-1. Hakemus noudattaa `schema/hakemusmalli.md`-rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.0, ei ylimääräisiä arvioita.
+1. Hakemus noudattaa `schema/hakemusmalli.md`-rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.1, ei ylimääräisiä arvioita.
 2. Kaikki ydintiedot on tarjottu hakijalle kerrottavaksi. Puuttuvat tiedot on merkitty yhdenmukaisesti. Ei tyhjiä kenttiä tai mallin ohjetekstejä.
 3. Kokemusesimerkeissä oma toiminta erottuu muiden työstä. Väitteet ja luvut perustuvat hakijan kertomaan. Toteutunut tulos erottuu ideasta ja tavoitteesta.
 4. Teksti on tiivis ja kenttäkohtaiset pituusrajat täyttyvät. Hakijan kirjoitustyyliä ei käytetä osaamisen mittarina.
@@ -11,7 +11,7 @@
 7. Hakija on nähnyt koko sisällön ja vahvistanut sen. Vahvistusta ei saa merkitä saaduksi ilman vastausta. Korjattuasi merkittävästi sisältöä pyydä uusi tarkastus.
 8. Tiedoston nimi on hakijan ilmoittama `Etunimi Sukunimi.md`. Nimessä ja otsikossa käytetään hakijan oikeaa ilmoitettua nimeä, ei mallin sanaa Omanimi.
 
-Jos hakija haluaa lisätä henkilötiedot itse, jätä kyseisiin kohtiin Ei selvitetty ja kerro täsmällisesti, mitkä kentät on lisättävä ennen lähettämistä. Älä väitä täysin lähetysvalmiiksi tiedostoa, jonka nimi tai yhteystiedot vielä puuttuvat. Hakijan ei tarvitse antaa tietoja tekoälypalvelulle voidakseen täydentää tiedoston paikallisesti.
+Jos hakija haluaa lisätä henkilötiedot itse, jätä kyseisiin kohtiin Ei käsitelty ja kerro täsmällisesti, mitkä kentät on lisättävä ennen lähettämistä. Älä väitä täysin lähetysvalmiiksi tiedostoa, jonka nimi tai yhteystiedot vielä puuttuvat. Hakijan ei tarvitse antaa tietoja tekoälypalvelulle voidakseen täydentää tiedoston paikallisesti.
 
 ## Muodosta tiedosto
 
@@ -36,7 +36,7 @@ Hakijan ei tarvitse liittää sähköpostiaan, antaa salasanaa tai myöntää uu
 
 ## Hakija lähettää tiedoston itse
 
-Anna latauslinkki tiedostoon, jos sellainen on käytettävissä. Jos tiedostoa ei voida luoda, anna koko hakemus yhtenä kopioitavana Markdown-koodilohkona ja neuvo tallentamaan lohkon sisältö UTF-8-muodossa nimellä `Etunimi Sukunimi.md`, ilman `.txt`-päätettä. Anna selkeä käytännön ohje liittää tallennettu MD-tiedosto sähköpostiin.
+Anna latauslinkki tiedostoon, jos sellainen on käytettävissä. Jos tiedostoa ei voida luoda, anna koko hakemus yhtenä kopioitavana Markdown-koodilohkona ja neuvo tallentamaan lohkon sisältö UTF-8-muodossa nimellä `Etunimi Sukunimi.md`, ilman `.txt`-päätettä. Anna selkeä käytännön ohje liittää tallennettu MD-tiedosto sähköpostiin. Jos hakija ei pysty tai halua lähettää MD-liitettä, hän voi kopioida tarkastetun hakemuksen kokonaisuudessaan sähköpostin tekstikenttään: kopioi vain hakemusteksti ilman koodiaitoja, avaa uusi viesti, liitä teksti viestin runkoon, tarkasta vastaanottaja ja otsikko ja lähetä viesti. MD-liite on ensisijainen, mutta tekstinä lähetetty hakemus hyväksytään.
 
 Näytä seuraavat tiedot ja korvaa nimipaikat hakijan nimellä, jos se on tiedossa:
 
@@ -47,6 +47,8 @@ Näytä seuraavat tiedot ja korvaa nimipaikat hakijan nimellä, jos se on tiedos
 - **Jatkosta:** yhteydenottoja voi odottaa marraskuun 2026 lopussa.
 - **Lisätiedot:** Pasi Huumarsalo, sama sähköposti, 040 739 5789.
 
-Sano selvästi: **Hakemustasi ei ole vielä lähetetty. Tallenna tarkastamasi MD-tiedosto ja lähetä se itse sähköpostin liitteenä yllä olevaan osoitteeseen. Hakeminen tapahtuu lähettämällä tiedosto.**
+Sano itse lähettämisen tilanteessa selvästi: **Hakemustasi ei ole vielä lähetetty. Lähetä tarkastamasi hakemus itse sähköpostitse yllä olevaan osoitteeseen, ensisijaisesti MD-tiedoston liitteenä tai tarvittaessa viestin tekstinä.**
+
+Cleor ei lähetä erillistä vastaanottokuittausta. Onnistunut lähetys tai Lähetetyt-kansio ei yksin todista, että viesti on luettu tai että se saapui perille. Jos hakija haluaa varmistaa vastaanoton, hän voi itse ottaa yhteyttä Pasiin sähköpostilla tai puhelimitse. Älä lupaa automaattista kuittausta.
 
 Saateviesti saa olla lyhyt; erillistä vapaamuotoista hakemusta, CV:tä tai koetehtävää ei edellytetä tämän aineiston perusteella. Jos määräpäivä on jo mennyt, älä väitä hakua avoimeksi tai suljetuksi varmistamatta: ohjaa kysymään ajankohtainen tilanne Pasille.
