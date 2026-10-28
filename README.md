@@ -11,3 +11,5 @@ Haemme uuteen perustettavaan tehtävään tuotepäällikköä kasvavaan konserni
 Hakemus tulee palauttaa ohjeistuksen mukaisesti **22.11.2026 mennessä**.
 
 Tämän rekrytoinnin ensimmäinen vaihe on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite ja `AGENTS.md`-tiedoston lukeminen.
+
+[Lataa haastatteluaineisto: HAKIJALLE.md](https://github.com/Cleor-Oy/tuotepaallikko_cleor_rekry_26/raw/refs/heads/main/HAKIJALLE.md)
