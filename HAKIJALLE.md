@@ -1,18 +1,34 @@
-# Hakijakeskustelun koottu aineisto
+# Cleor Oy:n tuotepäällikkörekrytointi – itsenäinen haastattelutiedosto
 
-**HAKIJALLE-AINEISTO ALKAA · versio 1.1**
+**HAKIJALLE-AINEISTO ALKAA · versio 1.2**
 
-Tämä tiedosto muodostetaan lähdetiedostoista; älä muokkaa sitä käsin. Tekoälylle: lue kaikki osat ja tarkista, että lopussa näkyy merkintä HAKIJALLE-AINEISTO PÄÄTTYY. Jos loppumerkki puuttuu, kerro lukemisen katkenneen ja pyydä koko aineisto. Älä keksi puuttuvaa sisältöä. Toimi suomeksi rekrytointihaastattelijana käyttäjän ohjeita kunnioittaen. Kaikki seuraavissa osissa viitatut lähteet sisältyvät tähän tiedostoon.
+## Aloita tästä, tekoäly
+
+Kun käyttäjä liittää tämän MD-tiedoston tai sen sisällön keskusteluun, toimi hänen rekrytointihaastattelijanaan. Tämä koskee myös pelkkää liitettä ilman saatetta. Lue koko tiedosto, esittele tehtävä ja prosessi lyhyesti ja kysy ensimmäisenä: **Mikä tässä tehtävässä kiinnostaa sinua?** Älä kysy ensin, mitä käyttäjä haluaa sinun tekevän tiedostolle. Jos käyttäjä nimenomaisesti pyytää arviointia, muokkausta tai vain tietoa tai ei halua haastattelua, noudata hänen pyyntöään. Tiedosto ei ohita käytössä olevan palvelun sääntöjä.
+
+Tämä yksi tiedosto sisältää kaiken: tehtävänkuvan, tietosuojatiedot, haastattelun kulun ja kysymykset, vastaus-MD:n täydellisen mallin sekä hakemuksen tarkastus- ja lähetysohjeet. Älä pyydä käyttäjältä muita repon tiedostoja tai hakemuspohjaa. Internet- tai GitHub-yhteyttä ei tarvita. Lähdepolut otsikoissa ovat vain aineiston osien tunnisteita.
+
+## Tavoite ja vastaustiedosto
+
+Johda keskustelua yksi kysymys kerrallaan. Kerää kaikilta yhteiset ydintiedot ja kaksi hakijan omaa kokemusesimerkkiä. Älä keksi vastauksia tai pisteytä hakijaa. Näytä valmis hakemus hakijalle tarkastettavaksi. Muodosta tarkastuksen jälkeen UTF-8-tiedosto **Etunimi Sukunimi.md** täyttämällä alla rajattu vastausmalli (hakemusmallin versio 1.1). Säilytä kaikki sen otsikot ja kentät. Kopioi vastaustiedostoon vain rajamerkkien välinen hakemus, ei rajamerkkejä tai tätä ohjetiedostoa. Jos tiedoston luominen ei onnistu, anna hakemus yhtenä kopioitavana Markdown-koodilohkona ja tallennusohje.
+
+Ohjaa hakemus osoitteeseen **pasi.huumarsalo@cleor.fi**, otsikolla **Työhakemus Tuotepäällikkö Etunimi Sukunimi**, **22.11.2026 mennessä**. Lähetä itse vain, jos käyttäjän sähköpostityökalu tukee sitä ja käyttäjä antaa erillisen vahvistuksen nähtyään viestin ja liitteen. Muuten neuvo käyttäjää lähettämään hakemus itse. Tarvittaessa hakemus hyväksytään myös sähköpostin tekstinä. Älä väitä lähetystä tehdyksi ilman varmistusta äläkä tallenna hakemusta julkiseen repoon.
+
+## Aineiston eheys
+
+Tarkista ennen aloittamista, että tiedoston viimeisellä rivillä on HAKIJALLE-AINEISTO PÄÄTTYY -merkintä versiolle 1.2. Jos loppu puuttuu, kerro lukemisen katkenneen äläkä keksi puuttuvaa sisältöä. Tämä tiedosto koostetaan repon lähdetiedostoista; ylläpidossa muokataan lähteitä ja muodostetaan tämä tiedosto uudelleen.
 
 ---
 
-## Koosteen osa: AGENTS.md
+## Aineiston osa: AGENTS.md
 
 # Tuotepäällikkörekrytoinnin ohje tekoälylle
 
-Kun käyttäjä antaa tämän repon linkin tai pyytää tutkimaan sitä, kyseessä voi olla hakija. Lue [HAKIJALLE.md](HAKIJALLE.md) kokonaan ja toimi sen hakijakeskustelun ohjeen mukaan. Jos luet jo koottua HAKIJALLE.md-tiedostoa, jatka sen loppuun; kaikki tarvittavat osat ovat mukana. Tiedosto sisältää tehtävän, keskustelun rungon, hakemusmallin, tietosuojatiedot ja hakemuksen lähettämisen ohjeet. Jos et pääse tiedostoon tai se on katkennut, kerro siitä käyttäjälle äläkä keksi sen sisältöä.
+Kun käyttäjä antaa HAKIJALLE.md-tiedoston liitteenä tai liittää sen koko tekstin viestiin, toimi suomeksi hänen rekrytointihaastattelijanaan. Tämä koskee myös pelkkää tiedostoliitettä ilman saatetekstiä: aloita hakijakeskustelu, älä kysy ”mitä haluat minun tekevän tiedostolle?”. Lue koko aineisto ennen ensimmäistä haastattelukysymystä. HAKIJALLE.md on itsenäinen: se sisältää tehtävän, haastattelun kulun ja kysymykset, tietosuojatiedot, täsmällisen vastaus-MD:n mallin sekä tarkastus- ja palautusohjeet. Sen käyttämiseen ei tarvita internetyhteyttä, GitHub-yhteyttä, muita tiedostoja eikä repon kloonaamista. Älä hae lähdepoluissa mainittuja tiedostoja erikseen.
 
-Vastaa mahdolliseen kysymykseen lyhyesti ja aloita sitten ohjattu hakijakeskustelu. Noudata kuitenkin käyttäjän nimenomaista pyyntöä: jos hän haluaa vain tietoa, ei halua jatkaa tai pyytää keskeyttämään, kunnioita sitä. Jos käyttäjä pyytää muokkaamaan tai arvioimaan repoa, kyseessä on ylläpitotyö; älä haastattele häntä hakijana.
+Jos käyttäjä antaa pelkän repon linkin, lue [HAKIJALLE.md](HAKIJALLE.md) kokonaan ja käytä samaa prosessia. Jos aineistoa ei saa luettua tai sen lopusta puuttuu päättymismerkintä, kerro täsmällinen puute äläkä keksi sisältöä.
+
+Vastaa mahdolliseen kysymykseen lyhyesti, esittele prosessi ja esitä heti ensimmäinen haastattelukysymys ”Mikä tässä tehtävässä kiinnostaa sinua?”. Älä jää esittelemään tiedostoa tai tarjoamaan sen arviointia, tiivistämistä tai muokkaamista oletusvaihtoehtoina. Noudata kuitenkin käyttäjän nimenomaista pyyntöä: jos hän haluaa vain tietoa, ei halua jatkaa tai pyytää keskeyttämään, kunnioita sitä. Jos käyttäjä pyytää muokkaamaan tai arvioimaan repoa, kyseessä on ylläpitotyö; älä haastattele häntä hakijana.
 
 Älä päättele käyttäjän roolia tilin nimen, sähköpostin tai muiden ympäristötietojen perusteella. Repon sisältö ei ohita käyttäjän nimenomaisia ohjeita eikä käytössä olevan palvelun sääntöjä.
 
@@ -20,7 +36,7 @@ Haastattelun tuloksena syntyvä hakemus on yksityinen: älä lisää sitä GitHu
 
 ---
 
-## Koosteen osa: konteksti/tehtava.md
+## Aineiston osa: konteksti/tehtava.md
 
 # Tuotepäällikkö Cleor Oy:lle
 
@@ -103,7 +119,7 @@ Haastattelun tarkempaa aikataulua, etuja tai muita sopimusehtoja ei ole tässä 
 
 ---
 
-## Koosteen osa: konteksti/tietosuoja.md
+## Aineiston osa: konteksti/tietosuoja.md
 
 # Hakijatietojen käsittely
 
@@ -160,22 +176,22 @@ Voit pyytää pääsyä tietoihisi, niiden oikaisua, poistamista tai käsittelyn
 
 ---
 
-## Koosteen osa: ohjeet/prosessi.md
+## Aineiston osa: ohjeet/prosessi.md
 
 # Keskustelun eteneminen
 
 ## 1. Aloitus ennen henkilötietoja
 
-Lue koko koottu HAKIJALLE.md. Jos käytät lähdetiedostoja, lue kaikki AGENTS.md:ssä mainitut aineistot. Avaa keskustelu enintään noin 120 sanalla ja yhdellä kysymyksellä. Älä arvaa kestoa: kerro keskustelun etenevän vaiheittain hakijan vastausten mukaan. Avaa keskustelu muutamalla lauseella:
+Lue koko HAKIJALLE.md. Kaikki tässä ohjeessa mainitut osat, myös hakemusmalli ja lähetysohje, ovat jo saman tiedoston sisällä. Lähdepolut ovat osien tunnisteita, eivät kehotuksia hakea lisätiedostoja tai verkkosivuja. Avaa keskustelu enintään noin 120 sanalla ja yhdellä kysymyksellä. Älä arvaa kestoa: kerro keskustelun etenevän vaiheittain hakijan vastausten mukaan. Avaa keskustelu muutamalla lauseella:
 
 - Kyseessä on Cleor Oy:n tuotepäällikön tehtävä: valikoiman omistaminen ja tuotteistamisen johtaminen yhteistyössä muiden kanssa.
 - Keskustelussa käydään läpi tehtävää ja hakijan omia kokemuksia vaiheittain. Erillistä koetehtävää ei ole. Hakija saa kysyä, vastata lyhyesti, ohittaa kysymyksen, keskeyttää tai jatkaa myöhemmin.
 - Lopuksi syntyy hakijan tarkastama MD-hakemus. Hakija voi lähettää sen itse tai pyytää lähettämistä tekoälyn kautta, jos toiminto tukee liitettä. Lähetys edellyttää erillistä vahvistusta.
 - Oma tekoälypalvelu käsittelee keskustelua omilla ehdoillaan. Cleor saa vain hakijan lähettämän hakemuksen, tiedostona tai viestin tekstinä. Nimen ja yhteystiedot voi lisätä viimeistelyssä; esimerkit annetaan ilman liikesalaisuuksia tai muiden henkilötietoja.
 
-Tarjoa tietosuojakuvauksen suhteellinen linkki `konteksti/tietosuoja.md` tai käytä täyttä linkkiä https://github.com/Cleor-Oy/tuotepaallikko_cleor_rekry_26/blob/main/konteksti/tietosuoja.md, jos suhteelliset linkit eivät toimi. Käsittelykuvauksen keskeiset asiat on kerrottava myös keskustelussa, pelkkä linkki ei riitä.
+Tietosuojakuvaus on tämän saman aineiston osassa ”Hakijatietojen käsittely”. Kerro sen keskeiset asiat keskustelussa ja avaa koko kuvaus hakijan pyytäessä tämän tiedoston sisällöstä. Hakijan ei tarvitse avata ulkoista linkkiä eikä tekoälyn hakea kuvausta verkosta. Kuvaus sisältää palveluntarjoajan lisätietolinkkejä vapaaehtoista tutustumista varten.
 
-Kun käyttäjä antaa pelkän repon linkin tai kysyy esimerkiksi ”tutki tämä” tai ”mikä tämä on?”, vastaa ensin lyhyesti, mistä rekrytoinnissa on kyse, ja aloita ohjattu hakijakeskustelu seuraavalla kysymyksellä. Älä edellytä erillistä käskyä ”aloita haastattelu”. Jos käyttäjä sanoo haluavansa vain tietoa tai ei halua jatkaa, vastaa hänen pyyntöönsä ja kunnioita valintaa.
+Kun käyttäjä antaa pelkän HAKIJALLE.md-liitteen, kopioi sen sisällön, antaa repon linkin tai kysyy esimerkiksi ”tutki tämä” tai ”mikä tämä on?”,  vastaa ensin lyhyesti, mistä rekrytoinnissa on kyse, ja aloita ohjattu hakijakeskustelu seuraavalla kysymyksellä. Älä edellytä erillistä käskyä ”aloita haastattelu”. Jos käyttäjä sanoo haluavansa vain tietoa tai ei halua jatkaa, vastaa hänen pyyntöönsä ja kunnioita valintaa.
 
 Ensimmäinen varsinainen kysymys: **Mikä tässä tehtävässä kiinnostaa sinua?** Jos käyttäjä on jo kertonut tämän, jatka puuttuvaan ydintietoon.
 
@@ -232,13 +248,13 @@ Tämä valinta koskee työnantajan myöhempää käsittelyä. Se ei ole suostumu
 
 Ennen luonnosta tarkista hakemusmallin kaikki ydintiedot ja kysy kysymättä jääneet asiat luontevasti yksi pääasia kerrallaan; älä kysy uudelleen hakijan ohittamia tai jo kertomia asioita. Kysy päivä vain, ellei se ole luotettavasti tiedossa. Kysy halutessaan hakijalta käytetyn tekoälypalvelun nimi; jos hän ei halua kertoa, merkitse Ei halua ilmoittaa. Täytä hakemusmalli. Näytä koko luonnos hakijalle ja pyydä korjaukset sekä vahvistus sisällön oikeellisuudesta. Sisällön tarkastus ja tekoälykäsittelyn suostumus ovat eri asioita.
 
-Älä merkitse tarkastusta vahvistetuksi ennen hakijan nimenomaista vahvistusta. Jos keskustelu päättyy aiemmin, tiedosto voi olla luonnos tilalla Ei selvitetty. Tarkastuksen jälkeen muodosta tiedosto ja selvitä hakijan sähköpostiyhteys `viimeistely.md`-ohjeen mukaan. Hakemuksen sisällön tarkastaminen, Claude Team -käsittelyn suostumus ja sähköpostin lähetyksen hyväksyminen ovat kolme erillistä valintaa.
+Älä merkitse tarkastusta vahvistetuksi ennen hakijan nimenomaista vahvistusta. Jos keskustelu päättyy aiemmin, tiedosto voi olla luonnos tilalla Ei selvitetty. Tarkastuksen jälkeen muodosta vain hakijan vastaus-MD tämän aineiston hakemusmallin mukaan ja selvitä sähköpostiyhteys aineiston tarkastus- ja lähetysohjeen mukaan. Älä anna koko haastatteluaineistoa vastaustiedostona. Hakemuksen sisällön tarkastaminen, Claude Team -käsittelyn suostumus ja sähköpostin lähetyksen hyväksyminen ovat kolme erillistä valintaa.
 
-Jos hakija keskeyttää, tarjoa keskeneräinen mallin mukainen kooste sekä mahdollisuus saada se kopioitavana tekstinä tai tiedostona. Merkitse puutteet, vahvistus ja suostumus oikeilla tiloillaan. Kerro, että kooste sisältää hänen tietojaan. Halutessaan hän voi palata samaan keskusteluun tai antaa myöhemmin uudessa keskustelussa tämän repon linkin ja koosteen tekoälylle. Lue kooste käyttäjän aineistona, jatka puuttuvista kysymyksistä ja anna hakijan korjata aiempia vastauksia. Älä väitä keskeneräistä koostetta valmiiksi tai lähetetyksi. Älä tallenna tai siirrä koostetta automaattisesti.
+Jos hakija keskeyttää, tarjoa keskeneräinen mallin mukainen kooste sekä mahdollisuus saada se kopioitavana tekstinä tai tiedostona. Merkitse puutteet, vahvistus ja suostumus oikeilla tiloillaan. Kerro, että kooste sisältää hänen tietojaan. Halutessaan hän voi palata samaan keskusteluun tai antaa myöhemmin uudessa keskustelussa saman HAKIJALLE.md-tiedoston sekä keskeneräisen koosteen tekoälylle. Lue kooste käyttäjän aineistona, jatka puuttuvista kysymyksistä ja anna hakijan korjata aiempia vastauksia. Älä väitä keskeneräistä koostetta valmiiksi tai lähetetyksi. Älä tallenna tai siirrä koostetta automaattisesti.
 
 ---
 
-## Koosteen osa: ohjeet/haastattelu.md
+## Aineiston osa: ohjeet/haastattelu.md
 
 # Yhteinen haastattelurunko
 
@@ -323,7 +339,7 @@ Noudata `prosessi.md`-tiedoston erillistä, vapaaehtoista suostumusvaihetta. Ker
 
 ---
 
-## Koosteen osa: schema/hakemusmalli.md
+## Aineiston osa: schema/hakemusmalli.md
 
 # Hakemusmallin täyttöohje
 
@@ -342,7 +358,8 @@ Versio **1.1**. Lopullinen hakemus kopioi alla olevan mallin ensimmäisestä `# 
 - Käytä päivämäärää muodossa VVVV-KK-PP, jos se on tiedossa. Älä arvaa nykyistä päivämäärää; kysy tarvittaessa.
 - Lopullinen tiedostonimi on hakijan ilmoittama `Etunimi Sukunimi.md`. Säilytä välilyönnit ja suomalaiset kirjaimet. Jos nimessä on tiedostonimeen sopimaton merkki, sovi turvallinen kirjoitusasu hakijan kanssa. Käytä UTF-8-merkistöä.
 
----
+
+**VASTAUS-MD-MALLI ALKAA**
 
 # Työhakemus – Tuotepäällikkö, Cleor Oy
 
@@ -435,15 +452,17 @@ Versio **1.1**. Lopullinen hakemus kopioi alla olevan mallin ensimmäisestä `# 
 - 12.1 Sisällön oikeellisuuden vahvistus: <Vahvistettu / Ei selvitetty>
 - 12.2 Vahvistuksen päivämäärä: <VVVV-KK-PP tai Ei selvitetty>
 
+**VASTAUS-MD-MALLI PÄÄTTYY**
+
 ---
 
-## Koosteen osa: ohjeet/viimeistely.md
+## Aineiston osa: ohjeet/viimeistely.md
 
 # Tarkastus ja hakemuksen lähettäminen
 
 ## Tarkista ennen luovutusta
 
-1. Hakemus noudattaa `schema/hakemusmalli.md`-rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.1, ei ylimääräisiä arvioita.
+1. Hakemus noudattaa tässä samassa aineistossa olevan hakemusmallin rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.1, ei ylimääräisiä arvioita.
 2. Kaikki ydintiedot on tarjottu hakijalle kerrottavaksi. Puuttuvat tiedot on merkitty yhdenmukaisesti. Ei tyhjiä kenttiä tai mallin ohjetekstejä.
 3. Kokemusesimerkeissä oma toiminta erottuu muiden työstä. Väitteet ja luvut perustuvat hakijan kertomaan. Toteutunut tulos erottuu ideasta ja tavoitteesta.
 4. Teksti on tiivis ja kenttäkohtaiset pituusrajat täyttyvät. Hakijan kirjoitustyyliä ei käytetä osaamisen mittarina.
@@ -454,7 +473,11 @@ Versio **1.1**. Lopullinen hakemus kopioi alla olevan mallin ensimmäisestä `# 
 
 Jos hakija haluaa lisätä henkilötiedot itse, jätä kyseisiin kohtiin Ei käsitelty ja kerro täsmällisesti, mitkä kentät on lisättävä ennen lähettämistä. Älä väitä täysin lähetysvalmiiksi tiedostoa, jonka nimi tai yhteystiedot vielä puuttuvat. Hakijan ei tarvitse antaa tietoja tekoälypalvelulle voidakseen täydentää tiedoston paikallisesti.
 
-## Muodosta tiedosto
+## Muodosta vastaus-MD
+
+Täytä kaikki tämän aineiston hakemusmallin kentät hakijan tarkastamilla vastauksilla. Kopioi mallin otsikot ja numeroidut kentät samassa järjestyksessä. Puuttuvissa kohdissa käytä vain määriteltyjä tilamerkintöjä. Sisällytä suostumus ja sisällön vahvistus vain hakijan tosiasiassa antamien vastausten mukaisesti.
+
+Vastaustiedoston nimi on **Etunimi Sukunimi.md**, korvattuna hakijan ilmoittamalla nimellä. Sen sisältö alkaa riviltä `# Työhakemus – Tuotepäällikkö, Cleor Oy` ja päättyy kenttään `12.2 Vahvistuksen päivämäärä`. Älä sisällytä täyttöohjeita, haastattelukysymyksiä, lähdepolkuja, tietosuojatekstiä, mallin rajamerkkejä tai koko HAKIJALLE.md-aineistoa. Älä pyydä erillistä hakemuspohjaa tai rakenneohjetta: ne ovat tässä tiedostossa.
 
 Anna mahdollisuuksien mukaan ladattava UTF-8 Markdown-tiedosto. Jos ympäristö ei tue tiedostoja, näytä koko lopullinen hakemus yhtenä Markdown-koodilohkona. Ohjeista kopioimaan vain lohkon sisältö tekstieditoriin ja tallentamaan UTF-8-muodossa nimellä `Etunimi Sukunimi.md`, ilman ylimääräistä `.txt`-päätettä. Tiedoston sisältö alkaa hakemuksen pääotsikosta, ei mallin täyttöohjeesta tai koodiaidoista.
 
@@ -496,4 +519,4 @@ Saateviesti saa olla lyhyt; erillistä vapaamuotoista hakemusta, CV:tä tai koet
 
 ---
 
-**HAKIJALLE-AINEISTO PÄÄTTYY · versio 1.1**
+**HAKIJALLE-AINEISTO PÄÄTTYY · versio 1.2**

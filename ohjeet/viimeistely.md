@@ -2,7 +2,7 @@
 
 ## Tarkista ennen luovutusta
 
-1. Hakemus noudattaa `schema/hakemusmalli.md`-rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.1, ei ylimääräisiä arvioita.
+1. Hakemus noudattaa tässä samassa aineistossa olevan hakemusmallin rakennetta: samat otsikot ja kentät samassa järjestyksessä, malliversio 1.1, ei ylimääräisiä arvioita.
 2. Kaikki ydintiedot on tarjottu hakijalle kerrottavaksi. Puuttuvat tiedot on merkitty yhdenmukaisesti. Ei tyhjiä kenttiä tai mallin ohjetekstejä.
 3. Kokemusesimerkeissä oma toiminta erottuu muiden työstä. Väitteet ja luvut perustuvat hakijan kertomaan. Toteutunut tulos erottuu ideasta ja tavoitteesta.
 4. Teksti on tiivis ja kenttäkohtaiset pituusrajat täyttyvät. Hakijan kirjoitustyyliä ei käytetä osaamisen mittarina.
@@ -13,7 +13,11 @@
 
 Jos hakija haluaa lisätä henkilötiedot itse, jätä kyseisiin kohtiin Ei käsitelty ja kerro täsmällisesti, mitkä kentät on lisättävä ennen lähettämistä. Älä väitä täysin lähetysvalmiiksi tiedostoa, jonka nimi tai yhteystiedot vielä puuttuvat. Hakijan ei tarvitse antaa tietoja tekoälypalvelulle voidakseen täydentää tiedoston paikallisesti.
 
-## Muodosta tiedosto
+## Muodosta vastaus-MD
+
+Täytä kaikki tämän aineiston hakemusmallin kentät hakijan tarkastamilla vastauksilla. Kopioi mallin otsikot ja numeroidut kentät samassa järjestyksessä. Puuttuvissa kohdissa käytä vain määriteltyjä tilamerkintöjä. Sisällytä suostumus ja sisällön vahvistus vain hakijan tosiasiassa antamien vastausten mukaisesti.
+
+Vastaustiedoston nimi on **Etunimi Sukunimi.md**, korvattuna hakijan ilmoittamalla nimellä. Sen sisältö alkaa riviltä `# Työhakemus – Tuotepäällikkö, Cleor Oy` ja päättyy kenttään `12.2 Vahvistuksen päivämäärä`. Älä sisällytä täyttöohjeita, haastattelukysymyksiä, lähdepolkuja, tietosuojatekstiä, mallin rajamerkkejä tai koko HAKIJALLE.md-aineistoa. Älä pyydä erillistä hakemuspohjaa tai rakenneohjetta: ne ovat tässä tiedostossa.
 
 Anna mahdollisuuksien mukaan ladattava UTF-8 Markdown-tiedosto. Jos ympäristö ei tue tiedostoja, näytä koko lopullinen hakemus yhtenä Markdown-koodilohkona. Ohjeista kopioimaan vain lohkon sisältö tekstieditoriin ja tallentamaan UTF-8-muodossa nimellä `Etunimi Sukunimi.md`, ilman ylimääräistä `.txt`-päätettä. Tiedoston sisältö alkaa hakemuksen pääotsikosta, ei mallin täyttöohjeesta tai koodiaidoista.
 
