@@ -6,7 +6,7 @@ Tuotteiden takana on pääosin oma tytäryhtiömme Hani-Tuote Oy, joka on hankin
 
 Vuonna 2018 Seinäjoella perustettu Cleor on kasvanut kannattavasti perustamisestaan saakka, ja kehitämme toimintaamme jatkuvasti myös omilla digitaalisilla työkaluillamme.
 
-Haemme omistajuutta ottavaa tuotepäällikköä kasvavaan konserniimme vastaamaan Hani-Tuote Oy:n valikoimasta sekä Cleor Oy:n projektimyynnin tuotevalikoimasta.
+Haemme uuteen perustettavaan tehtävään tuotepäällikköä kasvavaan konserniimme vastaamaan Hani-Tuote Oy:n valikoimasta sekä Cleor Oy:n projektimyynnin tuotevalikoimasta.
 
 Hakemus tulee palauttaa ohjeistuksen mukaisesti **22.11.2026 mennessä**.
 
