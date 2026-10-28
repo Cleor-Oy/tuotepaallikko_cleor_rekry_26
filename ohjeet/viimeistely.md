@@ -43,7 +43,7 @@ Näytä seuraavat tiedot ja korvaa nimipaikat hakijan nimellä, jos se on tiedos
 - **Vastaanottaja:** pasi.huumarsalo@cleor.fi
 - **Sähköpostin otsikko:** `Työhakemus Tuotepäällikkö Etunimi Sukunimi`
 - **Liite:** `Etunimi Sukunimi.md`
-- **Hakuaika:** alustavasti 22.11.2026 mennessä.
+- **Hakuaika:** 22.11.2026 mennessä.
 - **Jatkosta:** yhteydenottoja voi odottaa marraskuun 2026 lopussa.
 - **Lisätiedot:** Pasi Huumarsalo, sama sähköposti, 040 739 5789.
 

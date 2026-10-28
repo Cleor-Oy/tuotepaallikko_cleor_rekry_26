@@ -72,7 +72,7 @@ Ensimmäisten kuukausien onnistumisia ovat esimerkiksi odottavien tuoteryhmien j
 - Voit asua missä päin Suomea tahansa. Tuotevarasto ja keskeiset sisäiset sidosryhmät ovat Tampereella, jossa käyt tarvittaessa. Tarvittavien käyntien määrä sovitaan erikseen.
 - Tavoitteena aloitus loppuvuoden 2026 aikana. Kerro oma mahdollinen aloitusajankohtasi.
 - Palkka sovitaan tehtävään valittavan kanssa. Hakemuksessa kysytään palkkatoivetta tai muun yhteistyömallin mukaista laskutustoivetta.
-- Haku päättyy alustavasti 22.11.2026. Hakijat voivat odottaa yhteydenottoja marraskuun lopussa.
+- Haku päättyy 22.11.2026. Hakijat voivat odottaa yhteydenottoja marraskuun lopussa.
 - Lisätiedot: Pasi Huumarsalo, pasi.huumarsalo@cleor.fi, 040 739 5789.
 
 Haastattelun tarkempaa aikataulua, etuja tai muita sopimusehtoja ei ole tässä aineistossa vahvistettu. Niistä voi kysyä yhteyshenkilöltä.

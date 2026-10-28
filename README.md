@@ -1,9 +1,9 @@
 # Tuotepäällikkö · Cleor Oy
 
+Cleor Oy on rakennusalan projekteihin logistiikkaa, projektinhallintaa ja asennuspalveluja tarjoava yritys. Konserniimme kuuluu myös tilavarusteita tarjoava Hani-Tuote Oy.
+
 Haemme omistajuutta ottavaa tuotepäällikköä kasvavaan konserniimme.
 
-Kokoaikainen tehtävä. Vakituinen työsuhde lähtökohtana, myös muut yhteistyömallit mahdollisia. Etätyömahdollisuus ja käynnit Tampereella tarvittaessa.
+Hakemus tulee palauttaa ohjeistuksen mukaisesti **22.11.2026 mennessä**.
 
-Haku alustavasti **22.11.2026 mennessä**.
-
-Tämä rekrytointi on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite.
+Tämän rekrytoinnin ensimmäinen vaihe on suunniteltu tekoälyn kanssa käytäväksi keskusteluksi. Keskustelun lähtökohtana on tämän sivun osoite.
